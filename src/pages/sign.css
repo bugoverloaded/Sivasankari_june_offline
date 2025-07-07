@@ -1,0 +1,20 @@
+#email{
+    border-radius: 3%;
+    border: solid;
+    padding-left: 5%;
+    padding-right: 5%;
+
+    border-radius:12px;
+    
+    
+}
+.continue-btn{
+    border-radius: 8px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 16px;
+    border-radius:12px;
+    
+}
