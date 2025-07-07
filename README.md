@@ -1,2 +1,1 @@
-# website
-comforting-pothos-21f13c.netlify.app
+https://comforting-pothos-21f13c.netlify.app/
